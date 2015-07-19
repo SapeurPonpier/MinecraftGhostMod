@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraftghostmod",
+  "name": "Minecraft Ghost Mod",
+  "description": "Mod for record a Minecraft Ghost's episode.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wascar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
